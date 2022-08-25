@@ -1,13 +1,17 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: url("images/audience.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  
 }
 
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  /* text-shadow: 3px 0 #DA0463; */
+  text-shadow: 3px 3px #DA0463;
 
 }
 
@@ -17,44 +21,51 @@ footer {
 }
 
 .w {
-  background-image: url("images/tom4.png");
+  background-image: url("images/floor-tom2.jpg");
   background-color: transparent;
+  background-size: cover;
   font-family: sans-serif;
 }
 
 .a {
-   background-image: url("images/tom3.png");
+   background-image: url("images/floor-tom.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
 .s {
-   background-image: url("images/tom2.png");
+   background-image: url("images/tom2.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
 .d {
-   background-image: url("images/tom1.png");
+   background-image: url("images/tom1.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
 .j {
-   background-image: url("images/snare.png");
+   background-image: url("images/snare.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
 .k {
-   background-image: url("images/kick.png");
+   background-image: url("images/kick.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
 .l {
-   background-image: url("images/crash.png");
+   background-image: url("images/crash.jpg");
    background-color: transparent;
+   background-size: cover;
    font-family: sans-serif;
 }
 
