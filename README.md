@@ -14,9 +14,7 @@ When you click on any of the keys, you’ll get the corresponding sound of the d
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## What it does 
-
-Click the buttons indicating each sound. </br>
-Get a new background at each refresh.
+Click the buttons reproducing each sound in the Drum. </br>
 
 # Demo
 https://user-images.githubusercontent.com/84473537/186568585-24588d9d-cbd8-423c-beee-c16fcb5e420e.mov
